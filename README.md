@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 This is eample to show  different prts f git repositary and varius commands using a web
 ## How to contribute
-This tells how to build web application 
+Please fork this repositary and then issue pull request for review
 
 ##Deployment
 
